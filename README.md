@@ -1,2 +1,7 @@
-# showandtellapril13test
-I am trying to do XYZ
+# GitHub Pages 
+
+This website is powered by GitHub pages and shows the CI/CD capabilities of Github and GitHub actions
+
+... upload index.html
+... add diagram
+... explain how it works
